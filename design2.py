@@ -139,7 +139,7 @@ def sanj():
 	 if sect == "y":
 		 if sanj == 1:
 			 if vdsb < vdpb:
-				 bolt1 = Fu/vdsp
+				 bolt1 = Fu/vdsb
 				 print "\033[1;32m no of bolt is :- ", bolt1
 				 boltz = input("make nearly equal to :- ")
 			 else:
