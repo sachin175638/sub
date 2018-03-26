@@ -125,7 +125,7 @@ def sanj():
  print "  kb = ", kb4
  print ""
  kb = input("Select kb value :- ")
- vnpb = 2.5*kb*t*d*fu
+ vnpb = 2.5*kb*t*d*fub
  vdpb1 = vnpb/gama_mb
  if stec == "y":
 	 boltz = input("Enter number of bolt :- ")
